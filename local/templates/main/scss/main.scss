@@ -1,9 +1,14 @@
 // tilda
 @import url('https://fonts.googleapis.com/css?family=Oswald:400,500,700&display=swap&subset=cyrillic');
-@import 'tilda/fonts';
-@import 'tilda/grid-3.0';
-@import 'tilda/blocks-2.12';
-@import 'tilda/animation-1.0';
-@import 'tilda/menusub-1.0';
-@import 'tilda/slds-1.4';
-@import 'tilda/zoom-2.0';
+// @import 'tilda/grid-3.0';
+// @import 'tilda/blocks-2.12';
+// @import 'tilda/animation-1.0';
+// @import 'tilda/menusub-1.0';
+// @import 'tilda/slds-1.4';
+// @import 'tilda/zoom-2.0';
+
+// Reboot
+@import 'reboot';
+
+// Nav
+@import 'nav/navbar';
