@@ -20,18 +20,133 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78be8ded-f4af-4b0b-9447-806f5a090c95" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/local/templates/main/img/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/local/templates/main/scss/_reboot.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/local/templates/main/scss/nav/_navbar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/local/templates/main/template_styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news.list/blog_last/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news.list/blog_last/lang/en/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news.list/blog_last/lang/en/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news.list/blog_last/lang/ru/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news.list/blog_last/lang/ru/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news.list/blog_last/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news.list/blog_last/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/catalog.filter/.default/lang/en/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/catalog.filter/.default/lang/ru/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/catalog.filter/.default/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/forum.topic.reviews/.default/component_epilog.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/forum.topic.reviews/.default/form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/forum.topic.reviews/.default/images/close.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/forum.topic.reviews/.default/images/font_quote.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/forum.topic.reviews/.default/images/noavatar.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/forum.topic.reviews/.default/images/postform/add.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/forum.topic.reviews/.default/images/postform/add_button.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/forum.topic.reviews/.default/images/postform/cut.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/forum.topic.reviews/.default/images/postform/delete.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/forum.topic.reviews/.default/images/postform/edit.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/forum.topic.reviews/.default/images/postform/font_bold.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/forum.topic.reviews/.default/images/postform/font_code.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/forum.topic.reviews/.default/images/postform/font_color.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/forum.topic.reviews/.default/images/postform/font_image.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/forum.topic.reviews/.default/images/postform/font_italic.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/forum.topic.reviews/.default/images/postform/font_link.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/forum.topic.reviews/.default/images/postform/font_list.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/forum.topic.reviews/.default/images/postform/font_quote.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/forum.topic.reviews/.default/images/postform/font_translit.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/forum.topic.reviews/.default/images/postform/font_underline.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/forum.topic.reviews/.default/images/postform/image.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/forum.topic.reviews/.default/images/postform/shadow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/forum.topic.reviews/.default/images/postform/toolbarbg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/forum.topic.reviews/.default/images/postform/video.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/forum.topic.reviews/.default/lang/en/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/forum.topic.reviews/.default/lang/ru/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/forum.topic.reviews/.default/result_modifier.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/forum.topic.reviews/.default/ru/script.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/forum.topic.reviews/.default/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/forum.topic.reviews/.default/script.map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/forum.topic.reviews/.default/script.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/forum.topic.reviews/.default/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/forum.topic.reviews/.default/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/iblock.vote/.default/lang/en/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/iblock.vote/.default/lang/ru/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/iblock.vote/.default/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/iblock.vote/ajax/images/empty.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/iblock.vote/ajax/images/over.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/iblock.vote/ajax/images/voted.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/iblock.vote/ajax/lang/en/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/iblock.vote/ajax/lang/ru/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/iblock.vote/ajax/result_modifier.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/iblock.vote/ajax/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/iblock.vote/ajax/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/news.detail/.default/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/news.detail/.default/lang/en/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/news.detail/.default/lang/en/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/news.detail/.default/lang/ru/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/news.detail/.default/lang/ru/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/news.detail/.default/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/news.detail/.default/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/news.index/.default/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/news.list/.default/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/news.list/.default/lang/en/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/news.list/.default/lang/en/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/news.list/.default/lang/ru/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/news.list/.default/lang/ru/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/news.list/.default/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/news.list/.default/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/news.list/list/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/news.list/photo/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/rss.out/.default/lang/en/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/rss.out/.default/lang/ru/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/rss.out/.default/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/search.form/flat/lang/en/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/search.form/flat/lang/ru/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/search.form/flat/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/search.page/.default/chain_template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/search.page/.default/lang/en/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/search.page/.default/lang/ru/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/search.page/.default/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/search.page/.default/style.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/bitrix/search.page/.default/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/detail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/images/gif-dark/feed-icon-10x10.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/images/gif-dark/feed-icon-12x12.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/images/gif-dark/feed-icon-16x16.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/images/gif-dark/feed-icon-24x24.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/images/gif-dark/feed-icon-32x32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/images/gif-light/feed-icon-10x10.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/images/gif-light/feed-icon-12x12.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/images/gif-light/feed-icon-16x16.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/images/gif-light/feed-icon-24x24.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/images/gif-light/feed-icon-32x32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/images/jpg-black/feed-icon-10x10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/images/jpg-black/feed-icon-12x12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/images/jpg-black/feed-icon-16x16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/images/jpg-black/feed-icon-24x24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/images/jpg-black/feed-icon-32x32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/images/jpg-white/feed-icon-10x10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/images/jpg-white/feed-icon-12x12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/images/jpg-white/feed-icon-16x16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/images/jpg-white/feed-icon-24x24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/images/jpg-white/feed-icon-32x32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/images/png/feed-icon-10x10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/images/png/feed-icon-12x12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/images/png/feed-icon-14x14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/images/png/feed-icon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/images/png/feed-icon-24x24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/images/png/feed-icon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/lang/en/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/lang/en/detail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/lang/en/news.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/lang/en/search.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/lang/en/section.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/lang/ru/.parameters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/lang/ru/detail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/lang/ru/news.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/lang/ru/search.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/lang/ru/section.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/news.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/rss.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/rss_section.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/search.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/components/bitrix/news/blog/section.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/local/templates/main/css/main.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/local/templates/main/css/main.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/local/templates/main/css/main.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/local/templates/main/css/main.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/local/templates/main/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/local/templates/main/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/local/templates/main/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/local/templates/main/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/local/templates/main/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/local/templates/main/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/local/templates/main/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/local/templates/main/scss/main.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +184,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597781877217</updated>
-      <workItem from="1597781880220" duration="8827000" />
+      <workItem from="1597781880220" duration="9496000" />
     </task>
     <servers />
   </component>
