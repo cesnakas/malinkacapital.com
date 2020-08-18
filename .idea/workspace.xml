@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="78be8ded-f4af-4b0b-9447-806f5a090c95" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/malinkacapital.com.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hedge/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/instrumenty/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/templates/main/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/politika-konf/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soglasie/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/urlrewrite.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gHqToF4sGQJI3UXiYtwSriIMiC" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78be8ded-f4af-4b0b-9447-806f5a090c95" name="Default Changelist" comment="" />
+      <created>1597781877217</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597781877217</updated>
+      <workItem from="1597781880220" duration="3432000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="450" y="205" width="910" height="669" key="#Deployment" timestamp="1597782146637">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="450" y="205" width="910" height="669" key="#Deployment/0.0.1920.1080@0.0.1920.1080" timestamp="1597782146637" />
+    <state x="616" y="219" key="#Options" timestamp="1597782037851">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="616" y="219" key="#Options/0.0.1920.1080@0.0.1920.1080" timestamp="1597782037851" />
+    <state x="803" y="446" key="WebDeployment.AddServerDialog.v.1" timestamp="1597782073983">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="803" y="446" key="WebDeployment.AddServerDialog.v.1/0.0.1920.1080@0.0.1920.1080" timestamp="1597782073983" />
+  </component>
+</project>
