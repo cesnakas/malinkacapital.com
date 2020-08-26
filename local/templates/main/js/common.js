@@ -41,5 +41,8 @@ $( document ).ready(function() { t396_init('165088266'); });
 // section 2
 $( document ).ready(function() { t396_init('165122474'); });
 
+// section 3
+$( document ).ready(function() { t396_init('168111715'); });
+
 // footer
 $( document ).ready(function() { t396_init('170432673'); });
