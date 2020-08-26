@@ -35,5 +35,11 @@ $( document ).ready(function() { t396_init('165087218'); });
 $(document).ready(function() { try { t734_init('165086438'); } catch (err) { } });
 $(document).ready(function() {});
 
+// section 1
+$( document ).ready(function() { t396_init('165088266'); });
+
+// section 2
+$( document ).ready(function() { t396_init('165122474'); });
+
 // footer
 $( document ).ready(function() { t396_init('170432673'); });
