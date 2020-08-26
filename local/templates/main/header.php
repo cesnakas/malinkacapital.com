@@ -11,8 +11,8 @@
     // Meta
     Asset::getInstance()->addString('<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, viewport-fit=cover, user-scalable=0">');
     // Bootstrap
-    use Bitrix\Main\UI\Extension;
-    Extension::load('ui.bootstrap4');
+    // use Bitrix\Main\UI\Extension;
+    // Extension::load('ui.bootstrap4');
     // CSS
     Asset::getInstance()->addCss(SITE_TEMPLATE_PATH.'/css/assets/grid-3.0.min.css');
     Asset::getInstance()->addCss(SITE_TEMPLATE_PATH.'/css/assets/blocks-2.12.css');
