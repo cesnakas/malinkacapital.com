@@ -1,3 +1,14 @@
+// mobile menu
+$(document).ready(function() {
+    t282_showMenu('166577349');
+    t282_changeSize('166577349');
+    t282_highlight();
+});
+$(window).resize(function() {
+    t282_changeSize('166577349');
+});
+$(document).ready(function() { setTimeout(function(){ t_menusub_init('166577349'); }, 500); });
+
 // navigation
 $(document).ready(function() {
     t199_showMenu('179624420');

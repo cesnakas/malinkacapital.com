@@ -20,12 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78be8ded-f4af-4b0b-9447-806f5a090c95" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/local/templates/main/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/local/templates/main/footer.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/local/templates/main/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/local/templates/main/header.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/local/templates/main/js/common.js" beforeDir="false" afterPath="$PROJECT_DIR$/local/templates/main/js/common.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/local/templates/main/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/local/templates/main/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/local/templates/main/template_styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/local/templates/main/template_styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +65,7 @@
       <workItem from="1597959108724" duration="193000" />
       <workItem from="1598049164853" duration="526000" />
       <workItem from="1598296333569" duration="1414000" />
-      <workItem from="1598451188174" duration="18046000" />
+      <workItem from="1598451188174" duration="18816000" />
     </task>
     <servers />
   </component>

@@ -57,30 +57,7 @@
 <div id="panel"><?$APPLICATION->ShowPanel();?></div>
 <body>
 
-    <?/*
-    <div class="navbar navbar-expand-lg navbar-light fixed-top" id="navigation">
-        <div class="container">
-            <a class="navbar-brand" href="<?=SITE_DIR?>">
-                <img src="<?=SITE_TEMPLATE_PATH?>/img/logo.svg" alt="">
-            </a>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navMenu" aria-controls="navMenu" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navMenu">
-                <div class="navbar-nav ml-auto">
-                    <a class="nav-link" href="tel:+73422009199">+7 (342) 200 91 99</a>
-                </div>
-                <div class="navbar-nav ml-3">
-                    <a class="nav-link" href="">En</a>
-                    <a class="nav-link" href="">Ru</a>
-                </div>
-            </div>
-        </div>
-    </div>
-    */?>
-
     <!-- mobile menu -->
-    <?/*
     <div id="rec166577349" class="r t-rec t-rec_pt_60 t-screenmax-980px" style="padding-top:60px; " data-animationappear="off" data-record-type="327" data-screen-max="980px">
         <!-- T282 -->
         <div id="nav166577349marker"></div>
@@ -149,27 +126,7 @@
             <div class="t282__overlay t282__closed"></div>
         </div>
 
-        <script type="text/javascript">
-            $(document).ready(function() { t282_showMenu('166577349'); t282_changeSize('166577349');	t282_highlight(); }); $(window).resize(function() { t282_changeSize('166577349'); });
-        </script>
-
-        <script type="text/javascript">
-            $(document).ready(function() { setTimeout(function(){ t_menusub_init('166577349'); }, 500); });
-        </script>
-
-        <style>
-            @media screen and (max-width: 980px) {
-                #rec166577349 .t-menusub__menu .t-menusub__link-item {
-                    color:#000000 !important;
-                }
-                #rec166577349 .t-menusub__menu .t-menusub__link-item.t-active {
-                    color:#000000 !important;
-                }
-            }
-        </style>
-
     </div>
-    */?>
     <!-- /mobile menu -->
 
     <!-- navigation -->

@@ -3,6 +3,16 @@ body {
   margin: 0;
 }
 
+/* mobile menu */
+@media screen and (max-width: 980px) {
+  #rec166577349 .t-menusub__menu .t-menusub__link-item {
+    color:#000000 !important;
+  }
+  #rec166577349 .t-menusub__menu .t-menusub__link-item.t-active {
+    color:#000000 !important;
+  }
+}
+
 /* navigation */
 @media screen and (max-width: 980px) {
   #rec179624420 .t-menusub__menu .t-menusub__link-item {
