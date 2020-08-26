@@ -10,6 +10,7 @@
     use Bitrix\Main\Page\Asset;
     // Meta
     Asset::getInstance()->addString('<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, viewport-fit=cover, user-scalable=0">');
+    // Open Graph
     // Bootstrap
     use Bitrix\Main\UI\Extension;
     Extension::load('ui.bootstrap4');
@@ -17,11 +18,15 @@
     Asset::getInstance()->addCss(SITE_TEMPLATE_PATH.'/css/main.min.css');
     // JS
     //Asset::getInstance()->addJs(SITE_TEMPLATE_PATH.'/js/jquery-1.10.2.min.js');
-    //Asset::getInstance()->addJs(SITE_TEMPLATE_PATH.'/js/t-scripts-2.8.js');
-    //Asset::getInstance()->addJs(SITE_TEMPLATE_PATH.'/js/t-blocks-2.7.js');
-    //Asset::getInstance()->addJs('https://static.tildacdn.com/js/tilda-slds-1.4.min.js');
     Asset::getInstance()->addJs(SITE_TEMPLATE_PATH.'/js/main.js');
     ?>
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="<?=((!empty($_SERVER['HTTPS'])) ? 'https' : 'http').'://'. $_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'];?>">
+    <meta property="og:title" content="<?$APPLICATION->ShowTitle(false);?>">
+    <meta property="og:description" content="<?=$APPLICATION->ShowProperty('description');?>">
+    <meta property="og:image" content="https://static.tildacdn.com/tild3034-3033-4135-b036-643034346162/___.png">
 
     <title><?$APPLICATION->ShowTitle();?></title>
 
