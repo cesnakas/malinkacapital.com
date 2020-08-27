@@ -44,5 +44,24 @@ $( document ).ready(function() { t396_init('165122474'); });
 // section 3
 $( document ).ready(function() { t396_init('168111715'); });
 
+// section 4
+$( document ).ready(function() { t396_init('168135836'); });
+
+// section 5
+$( document ).ready(function() { t396_init('165153883'); });
+
+// section calc
+
+
+// section 7
+$( document ).ready(function() { t396_init('165539979'); });
+
+// section 8
+$( document ).ready(function() { t396_init('165548036'); });
+
+// section 9
+$('#rec166284173').find('.js-form-proccess').on('tildaform:aftererror', function(e){ e.preventDefault(); t698_fixcontentheight('166284173'); });
+$('.t698').bind('displayChanged',function(){ t698_fixcontentheight('166284173'); });
+
 // footer
 $( document ).ready(function() { t396_init('170432673'); });
