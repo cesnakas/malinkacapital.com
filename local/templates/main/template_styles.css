@@ -6,10 +6,27 @@ body {
 /* mobile menu */
 @media screen and (max-width: 980px) {
   #rec166577349 .t-menusub__menu .t-menusub__link-item {
-    color:#000000 !important;
+    color: #000 !important;
   }
   #rec166577349 .t-menusub__menu .t-menusub__link-item.t-active {
-    color:#000000 !important;
+    color: #000 !important;
+  }
+}
+.t282__container__bg_opened,
+.t282__menu__wrapper {
+  background-color: #ebebeb;
+}
+.t282__logo__container {
+  height: 80px;
+}
+.t282__menu__item {
+  color: #000;
+  font-size: 24px;
+  font-weight: 400;
+}
+@media screen and (max-width: 1200px) {
+  .t-descr_xxs {
+    font-size: 20px;
   }
 }
 
