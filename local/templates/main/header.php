@@ -130,12 +130,12 @@
     <!-- /mobile menu -->
 
     <!-- navigation -->
-    <div id="rec179624420" class="r t-rec t-rec_pt_60 t-screenmin-980px" style="padding-top:60px; " data-animationappear="off" data-record-type="230" data-screen-min="980px">
-        <div id="nav179624420" class="t199__header t199__js__header" style="background-color: rgba(255, 255, 255, 0);" data-menu="yes">
+    <div id="rec179624420" class="r t-rec t-rec_pt_60 t-screenmin-980px" data-animationappear="off" data-record-type="230" data-screen-min="980px">
+        <div id="nav179624420" class="t199__header t199__js__header" data-menu="yes">
             <div class="t199__holder">
 
                 <a class="t199__logo" href="<?=SITE_DIR;?>">
-                    <img src="<?=SITE_TEMPLATE_PATH;?>/img/logo.svg" class="t199__logo-image" style="max-width: 150px; width: 100%; height: auto;" imgfield="img">
+                    <img src="<?=SITE_TEMPLATE_PATH;?>/img/logo.svg" class="t199__logo-image" imgfield="img">
                     <div class="t199__logo-text-mobile t-title" field="title"></div>
                 </a>
 
@@ -160,4 +160,4 @@
     </div>
     <!-- /navigation -->
 
-    <main class="_container-fluid">
+    <main role="main">

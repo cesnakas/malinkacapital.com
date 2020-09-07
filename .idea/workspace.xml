@@ -19,17 +19,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-<<<<<<< Updated upstream
     <list default="true" id="78be8ded-f4af-4b0b-9447-806f5a090c95" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/local/templates/main/img/png/Group_180.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local/templates/main/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/local/templates/main/header.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/local/templates/main/js/common.js" beforeDir="false" afterPath="$PROJECT_DIR$/local/templates/main/js/common.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/local/templates/main/template_styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/local/templates/main/template_styles.css" afterDir="false" />
     </list>
-=======
-    <list default="true" id="78be8ded-f4af-4b0b-9447-806f5a090c95" name="Default Changelist" comment="" />
->>>>>>> Stashed changes
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,12 +68,8 @@
       <workItem from="1597959108724" duration="193000" />
       <workItem from="1598049164853" duration="526000" />
       <workItem from="1598296333569" duration="1414000" />
-<<<<<<< Updated upstream
       <workItem from="1598451188174" duration="20105000" />
       <workItem from="1598523368726" duration="4975000" />
-=======
-      <workItem from="1598451188174" duration="20221000" />
->>>>>>> Stashed changes
     </task>
     <servers />
   </component>
@@ -104,10 +97,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="833" y="426" key="#File_Watchers/0.0.1920.1080@0.0.1920.1080" timestamp="1598297551815" />
-    <state x="616" y="219" key="#Options" timestamp="1597782037851">
+    <state x="616" y="219" key="#Options" timestamp="1599500975479">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="616" y="219" key="#Options/0.0.1920.1080@0.0.1920.1080" timestamp="1597782037851" />
+    <state x="616" y="219" key="#Options/0.0.1920.1080@0.0.1920.1080" timestamp="1599500975479" />
     <state x="747" y="369" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1598297437006">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
