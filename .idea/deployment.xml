@@ -2,6 +2,17 @@
 <project version="4">
   <component name="PublishConfigData" autoUpload="Always" promptOnRemoteOverwrite="CHECK_TIMESTAMP" serverName="malinkacapital.tmweb.ru" createEmptyFolders="true" remoteFilesAllowedToDisappearOnAutoupload="false" autoUploadExternalChanges="true">
     <serverData>
+      <paths name="malinkacapital.com">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/upload" />
+            <excludedPath path="/bitrix" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
       <paths name="malinkacapital.tmweb.ru">
         <serverdata>
           <mappings>

@@ -20,12 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78be8ded-f4af-4b0b-9447-806f5a090c95" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/local/templates/main/img/png/Group_180.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local/dev/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/procces/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/local/templates/main/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/local/templates/main/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/local/templates/main/js/common.js" beforeDir="false" afterPath="$PROJECT_DIR$/local/templates/main/js/common.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/local/templates/main/template_styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/local/templates/main/template_styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,10 +88,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="450" y="205" width="910" height="669" key="#Deployment" timestamp="1597782146637">
+    <state x="450" y="205" width="910" height="669" key="#Deployment" timestamp="1599502295527">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="450" y="205" width="910" height="669" key="#Deployment/0.0.1920.1080@0.0.1920.1080" timestamp="1597782146637" />
+    <state x="450" y="205" width="910" height="669" key="#Deployment/0.0.1920.1080@0.0.1920.1080" timestamp="1599502295527" />
     <state x="833" y="426" key="#File_Watchers" timestamp="1598297551815">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -125,6 +124,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="667" y="172" width="586" height="735" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1597791720553" />
+    <state x="812" y="277" width="379" height="525" key="ftp.server.browser" timestamp="1599502133892">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="812" y="277" width="379" height="525" key="ftp.server.browser/0.0.1920.1080@0.0.1920.1080" timestamp="1599502133892" />
     <state x="804" y="412" key="publish.login" timestamp="1598523405319">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
