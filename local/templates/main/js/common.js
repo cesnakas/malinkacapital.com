@@ -63,5 +63,8 @@ $( document ).ready(function() { t396_init('165548036'); });
 $('#rec166284173').find('.js-form-proccess').on('tildaform:aftererror', function(e){ e.preventDefault(); t698_fixcontentheight('166284173'); });
 $('.t698').bind('displayChanged',function(){ t698_fixcontentheight('166284173'); });
 
+// blog
+$( document ).ready(function() { t396_init('166878447'); });
+
 // footer
 $( document ).ready(function() { t396_init('170432673'); });
