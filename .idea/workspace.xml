@@ -20,18 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78be8ded-f4af-4b0b-9447-806f5a090c95" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/azbuka-investora/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/.section.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/detail.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/blog/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/local/templates/main/css/main.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/local/templates/main/css/main.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/local/templates/main/css/main.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/local/templates/main/css/main.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/local/templates/main/js/common.js" beforeDir="false" afterPath="$PROJECT_DIR$/local/templates/main/js/common.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/local/templates/main/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/local/templates/main/scss/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/local/templates/main/scss/nav/_navbar.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/local/templates/main/template_styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/local/templates/main/template_styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
