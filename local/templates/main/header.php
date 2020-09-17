@@ -57,6 +57,95 @@
 <div id="panel"><?$APPLICATION->ShowPanel();?></div>
 <body>
 
+    <!-- menu -->
+    <div id="rec165048487" class="r t-rec t-rec_pt_0 t-rec_pb_0 t-screenmin-980px" style="padding-top: 0px; padding-bottom: 0px; opacity: 1;" data-animationappear="off" data-record-type="450" data-screen-min="980px">
+        <div class="t450__burger_container t450__burger-nobg" data-appearoffset="" data-hideoffset="" style="top:15px; ">
+            <div class="t450__burger_bg " style="; opacity:0.0;"></div>
+            <div class="t450__burger"><img src="https://image.flaticon.com/icons/svg/595/595005.svg" imgfield="img"></div>
+        </div>
+        <!-- t450 -->
+        <div id="nav165048487marker"></div>
+        <div class="t450__overlay">
+            <div class="t450__overlay_bg" style="background-color:#373334; "></div>
+        </div>
+        <div id="nav165048487" class="t450" data-tooltip-hook="#menuopen" style="max-width: 100vw;background-color: #373334;">
+            <div class="t450__close t450_opened " style="background-color: #373334;">
+                <div class="t450__close_icon"> <span style="background-color:#ffffff;"></span> <span style="background-color:#ffffff;"></span> <span style="background-color:#ffffff;"></span> <span style="background-color:#ffffff;"></span> </div>
+            </div>
+            <div class="t450__container t-align_left"><div id="rec168124446" class="r t-rec t-screenmin-980px" style=" " data-animationappear="off" data-record-type="396" data-screen-min="980px">
+                    <!-- T396 -->
+                    <div class="t396">
+                        <div class="t396__artboard rendered" data-artboard-recid="168124446" data-artboard-height="710" data-artboard-height_vh="" data-artboard-valign="center" data-artboard-ovrflw="" data-artboard-proxy-min-offset-top="0" data-artboard-proxy-min-height="710" data-artboard-proxy-max-height="710">
+                            <div class="t396__elem tn-elem tn-elem__1681244461582527585852" data-elem-id="1582527585852" data-elem-type="text" data-field-top-value="260" data-field-left-value="70" data-field-width-value="280" data-field-axisy-value="top" data-field-axisx-value="left" data-field-container-value="grid" data-field-topunits-value="" data-field-leftunits-value="" data-field-heightunits-value="" data-field-widthunits-value="" data-fields="top,left,width,container,axisx,axisy,widthunits,leftunits,topunits" style="top: 260px; left: 190px; width: 280px;"> <a class="tn-atom" href="/instrumenty/">Особенности</a> </div>
+                            <div class="t396__elem tn-elem tn-elem__1681244461582528121438" data-elem-id="1582528121438" data-elem-type="text" data-field-top-value="350" data-field-left-value="70" data-field-width-value="280" data-field-axisy-value="top" data-field-axisx-value="left" data-field-container-value="grid" data-field-topunits-value="" data-field-leftunits-value="" data-field-heightunits-value="" data-field-widthunits-value="" data-fields="top,left,width,container,axisx,axisy,widthunits,leftunits,topunits" style="top: 350px; left: 190px; width: 280px;"> <a class="tn-atom" href="/blog/">Блог</a> </div>
+                            <div class="t396__elem tn-elem tn-elem__1681244461582528129211" data-elem-id="1582528129211" data-elem-type="text" data-field-top-value="170" data-field-left-value="70" data-field-width-value="280" data-field-axisy-value="top" data-field-axisx-value="left" data-field-container-value="grid" data-field-topunits-value="" data-field-leftunits-value="" data-field-heightunits-value="" data-field-widthunits-value="" data-fields="top,left,width,container,axisx,axisy,widthunits,leftunits,topunits" style="top: 170px; left: 190px; width: 280px;"> <a class="tn-atom" href="/hedge/">Хедж-фонд</a> </div>
+                            <div class="t396__elem tn-elem tn-elem__1681244461582528171134" data-elem-id="1582528171134" data-elem-type="text" data-field-top-value="175" data-field-left-value="470" data-field-width-value="101" data-field-axisy-value="top" data-field-axisx-value="left" data-field-container-value="grid" data-field-topunits-value="" data-field-leftunits-value="" data-field-heightunits-value="" data-field-widthunits-value="" data-fields="top,left,width,container,axisx,axisy,widthunits,leftunits,topunits" style="top: 175px; left: 590px; width: 101px;"> <a class="tn-atom" href="/#uslugi">Услуги</a> </div>
+                            <div class="t396__elem tn-elem tn-elem__1681244461582528199478" data-elem-id="1582528199478" data-elem-type="text" data-field-top-value="245" data-field-left-value="470" data-field-width-value="101" data-field-axisy-value="top" data-field-axisx-value="left" data-field-container-value="grid" data-field-topunits-value="" data-field-leftunits-value="" data-field-heightunits-value="" data-field-widthunits-value="" data-fields="top,left,width,container,axisx,axisy,widthunits,leftunits,topunits" style="top: 245px; left: 590px; width: 101px;"> <a class="tn-atom" href="/instrumenty/#profit2">Доходность</a> </div>
+                            <div class="t396__elem tn-elem tn-elem__1681244461582528206877" data-elem-id="1582528206877" data-elem-type="text" data-field-top-value="310" data-field-left-value="470" data-field-width-value="101" data-field-axisy-value="top" data-field-axisx-value="left" data-field-container-value="grid" data-field-topunits-value="" data-field-leftunits-value="" data-field-heightunits-value="" data-field-widthunits-value="" data-fields="top,left,width,container,axisx,axisy,widthunits,leftunits,topunits" style="top: 310px; left: 590px; width: 101px;"> <a class="tn-atom" href="/#best">Преимущества</a> </div>
+                            <div class="t396__elem tn-elem tn-elem__1681244461582528236832" data-elem-id="1582528236832" data-elem-type="text" data-field-top-value="375" data-field-left-value="470" data-field-width-value="101" data-field-axisy-value="top" data-field-axisx-value="left" data-field-container-value="grid" data-field-topunits-value="" data-field-leftunits-value="" data-field-heightunits-value="" data-field-widthunits-value="" data-fields="top,left,width,container,axisx,axisy,widthunits,leftunits,topunits" style="top: 375px; left: 590px; width: 101px;"> <a class="tn-atom" href="/#ceo">О нас</a> </div>
+                            <div class="t396__elem tn-elem tn-elem__1681244461582528279356" data-elem-id="1582528279356" data-elem-type="text" data-field-top-value="170" data-field-left-value="810" data-field-width-value="101" data-field-axisy-value="top" data-field-axisx-value="left" data-field-container-value="grid" data-field-topunits-value="" data-field-leftunits-value="" data-field-heightunits-value="" data-field-widthunits-value="" data-fields="top,left,width,container,axisx,axisy,widthunits,leftunits,topunits" style="top: 170px; left: 930px; width: 101px;"> <a class="tn-atom" href="/#calculator">Калькулятор</a> </div>
+                            <div class="t396__elem tn-elem tn-elem__1681244461582528279359" data-elem-id="1582528279359" data-elem-type="text" data-field-top-value="240" data-field-left-value="810" data-field-width-value="101" data-field-axisy-value="top" data-field-axisx-value="left" data-field-container-value="grid" data-field-topunits-value="" data-field-leftunits-value="" data-field-heightunits-value="" data-field-widthunits-value="" data-fields="top,left,width,container,axisx,axisy,widthunits,leftunits,topunits" style="top: 240px; left: 930px; width: 101px;"> <a class="tn-atom" href="/#footer">Контакты</a> </div>
+                            <div class="t396__elem tn-elem tn-elem__1681244461582528279362" data-elem-id="1582528279362" data-elem-type="text" data-field-top-value="375" data-field-left-value="810" data-field-width-value="101" data-field-axisy-value="top" data-field-axisx-value="left" data-field-container-value="grid" data-field-topunits-value="" data-field-leftunits-value="" data-field-heightunits-value="" data-field-widthunits-value="" data-fields="top,left,width,container,axisx,axisy,widthunits,leftunits,topunits" style="top: 375px; left: 930px; width: 101px;"> <a class="tn-atom" href="/#faq">FAQ</a> </div>
+                            <div class="t396__elem tn-elem tn-elem__1681244461582528279366" data-elem-id="1582528279366" data-elem-type="text" data-field-top-value="310" data-field-left-value="810" data-field-width-value="101" data-field-axisy-value="top" data-field-axisx-value="left" data-field-container-value="grid" data-field-topunits-value="" data-field-leftunits-value="" data-field-heightunits-value="" data-field-widthunits-value="" data-fields="top,left,width,container,axisx,axisy,widthunits,leftunits,topunits" style="top: 310px; left: 930px; width: 101px;"> <a class="tn-atom" href="/#forma">Консультация</a> </div>
+                            <div class="t396__carrier" data-artboard-recid="168124446"></div>
+                            <div class="t396__filter" data-artboard-recid="168124446"></div>
+
+                            <div class="t396__elem tn-elem tn-elem__1681244461582528426534" data-elem-id="1582528426534" data-elem-type="text" data-field-top-value="615" data-field-left-value="510" data-field-width-value="201" data-field-axisy-value="top" data-field-axisx-value="left" data-field-container-value="grid" data-field-topunits-value="" data-field-leftunits-value="" data-field-heightunits-value="" data-field-widthunits-value="" data-fields="top,left,width,container,axisx,axisy,widthunits,leftunits,topunits" style="top: 615px; left: 630px; width: 201px;">
+                                <div class="tn-atom" field="tn_text_1582528426534">+7 (342) 200 91 99</div>
+                            </div>
+                            <div class="t396__elem tn-elem tn-elem__1681244461582528472741" data-elem-id="1582528472741" data-elem-type="image" data-field-top-value="610" data-field-left-value="110" data-field-width-value="34" data-field-axisy-value="top" data-field-axisx-value="left" data-field-container-value="grid" data-field-topunits-value="" data-field-leftunits-value="" data-field-heightunits-value="" data-field-widthunits-value="" data-fields="img,width,filewidth,fileheight,top,left,container,axisx,axisy,widthunits,leftunits,topunits" style="left: 230px; top: 610px; width: 34px;"> <a class="tn-atom" href="https://www.facebook.com/malinka_capital-605830633245003/"> <img class="tn-atom__img t-img loading" src="/upload/tilda/d50ba2e156b0c850afdcae821249872f001-facebook.svg" imgfield="tn_img_1582528472741"> </a> </div>
+                            <div class="t396__elem tn-elem tn-elem__1681244461582528484309" data-elem-id="1582528484309" data-elem-type="image" data-field-top-value="610" data-field-left-value="160" data-field-width-value="34" data-field-axisy-value="top" data-field-axisx-value="left" data-field-container-value="grid" data-field-topunits-value="" data-field-leftunits-value="" data-field-heightunits-value="" data-field-widthunits-value="" data-fields="img,width,filewidth,fileheight,top,left,container,axisx,axisy,widthunits,leftunits,topunits" style="left: 280px; top: 610px; width: 34px;"> <a class="tn-atom" href="https://www.instagram.com/malinka_capital/"> <img class="tn-atom__img t-img loading" src="/upload/tilda/bda415103290a0e88306ca878cda61cb002-instagram.svg" imgfield="tn_img_1582528484309"> </a> </div>
+                            <div class="t396__elem tn-elem tn-elem__1681244461582528506766" data-elem-id="1582528506766" data-elem-type="image" data-field-top-value="610" data-field-left-value="210" data-field-width-value="34" data-field-axisy-value="top" data-field-axisx-value="left" data-field-container-value="grid" data-field-topunits-value="" data-field-leftunits-value="" data-field-heightunits-value="" data-field-widthunits-value="" data-fields="img,width,filewidth,fileheight,top,left,container,axisx,axisy,widthunits,leftunits,topunits" style="left: 330px; top: 610px; width: 34px;"> <a class="tn-atom" href="https://vk.com/malinkacapital"> <img class="tn-atom__img t-img loading" src="/upload/tilda/cc7a3fa642dc9c20f7fecd3ba18c5241photo.svg" imgfield="tn_img_1582528506766"> </a> </div>
+                            <div class="t396__elem tn-elem tn-elem__1681244461582528675083" data-elem-id="1582528675083" data-elem-type="image" data-field-top-value="435" data-field-left-value="720" data-field-width-value="15" data-field-axisy-value="top" data-field-axisx-value="left" data-field-container-value="grid" data-field-topunits-value="" data-field-leftunits-value="" data-field-heightunits-value="" data-field-widthunits-value="" data-fields="img,width,filewidth,fileheight,top,left,container,axisx,axisy,widthunits,leftunits,topunits" style="left: 840px; top: 435px; width: 15px;">
+                                <div class="tn-atom"> <img class="tn-atom__img t-img loading" src="/upload/tilda/977df2fbdebd11eda9c350d3517f8fa1Ellipse_31.svg" imgfield="tn_img_1582528675083"> </div>
+                            </div>
+                            <div class="t396__elem tn-elem tn-elem__1681244461582528699006" data-elem-id="1582528699006" data-elem-type="image" data-field-top-value="425" data-field-left-value="350" data-field-width-value="344" data-field-axisy-value="top" data-field-axisx-value="left" data-field-container-value="grid" data-field-topunits-value="" data-field-leftunits-value="" data-field-heightunits-value="" data-field-widthunits-value="" data-fields="img,width,filewidth,fileheight,top,left,container,axisx,axisy,widthunits,leftunits,topunits" style="left: 470px; top: 425px; width: 344px;">
+                                <div class="tn-atom"> <img class="tn-atom__img t-img loading" src="/upload/tilda/56ff0cb35c5e0b1afb641fc74cfee737photo.svg" imgfield="tn_img_1582528699006"> </div>
+                            </div>
+                            <div class="t396__elem tn-elem tn-elem__1681244461582528748143" data-elem-id="1582528748143" data-elem-type="image" data-field-top-value="-15" data-field-left-value="980" data-field-width-value="276" data-field-axisy-value="top" data-field-axisx-value="left" data-field-container-value="grid" data-field-topunits-value="" data-field-leftunits-value="" data-field-heightunits-value="" data-field-widthunits-value="" data-fields="img,width,filewidth,fileheight,top,left,container,axisx,axisy,widthunits,leftunits,topunits" style="left: 1100px; top: -15px; width: 276px;">
+                                <div class="tn-atom"> <img class="tn-atom__img t-img loading" src="/upload/tilda/90179a59113c3a3715c578151b34751dphoto_1.svg" imgfield="tn_img_1582528748143"> </div>
+                            </div>
+                            <div class="t396__elem tn-elem tn-elem__1681244461582964459541" data-elem-id="1582964459541" data-elem-type="text" data-field-top-value="615" data-field-left-value="811" data-field-width-value="101" data-field-axisy-value="top" data-field-axisx-value="left" data-field-container-value="grid" data-field-topunits-value="" data-field-leftunits-value="" data-field-heightunits-value="" data-field-widthunits-value="" data-fields="top,left,width,container,axisx,axisy,widthunits,leftunits,topunits" style="top: 615px; left: 931px; width: 101px;">
+                                <div class="tn-atom" field="tn_text_1582964459541">malinkacapital@gmail.com</div>
+                            </div>
+                            <div class="t396__elem tn-elem tn-elem__1681244461583437174466" data-elem-id="1583437174466" data-elem-type="image" data-field-top-value="30" data-field-left-value="-10" data-field-width-value="307" data-field-axisy-value="top" data-field-axisx-value="left" data-field-container-value="grid" data-field-topunits-value="" data-field-leftunits-value="" data-field-heightunits-value="" data-field-widthunits-value="" data-fields="img,width,filewidth,fileheight,top,left,container,axisx,axisy,widthunits,leftunits,topunits" style="left: 110px; top: 30px; width: 307px;">
+                                <div class="tn-atom"> <img class="tn-atom__img t-img loading" src="/upload/tilda/6374e5be28db28ab0984ccb9c9a6eed4__.svg" alt="Logo" imgfield="tn_img_1583437174466"> </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /T396 -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- /menu -->
+
+    <!-- cookie -->
+    <div id="rec171979892" class="r t-rec" style=" " data-animationappear="off" data-record-type="657">
+        <!-- T657 -->
+        <div class="t657 t657_long t657_closed" data-storage-item="t657cookiename_2098589" style="">
+            <div class="t657__wrapper t-align_center" style="background:#fbfbf9;">
+                <div class="t657__text t-name t-descr_xxs" style="font-weight:300;" field="text">
+                    <div style="font-size:14px;font-family:'Roboto';" data-customstyle="yes"><span style="font-weight: 100;">Мы используем файлы cookie, чтобы анализировать трафик, подбирать для вас подходящий контент и рекламу, а также дать вам возможность делиться информацией в социальных сетях. Мы передаем информацию о ваших действиях на сайте партнерам Google: социальным сетям и компаниям, занимающимся рекламой и веб-аналитикой. Наши партнеры могут комбинировать эти сведения с предоставленной вами информацией, а также данными, которые они получили при использовании вами их сервисов. Продолжая использовать наш сайт, вы соглашаетесь на использование нами куки-файлов. Вы можете отозвать согласие в любое время.</span></div>
+                </div>
+                <div class="t657__btn-wrapper">
+                    <div class="t657__btn t-btn t-btn_sm" style="color:#ebebeb;background-color:#d11e29;border-radius:5px; -moz-border-radius:5px; -webkit-border-radius:5px;text-transform:uppercase;">Принять все cookies</div>
+                </div>
+                <svg class="t657__icon-close" width="10px" height="10px" viewBox="0 0 23 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                    <desc>Close</desc>
+                    <g stroke="none" stroke-width="1" fill="#000" fill-rule="evenodd">
+                        <rect transform="translate(11.313708, 11.313708) rotate(-45.000000) translate(-11.313708, -11.313708) " x="10.3137085" y="-3.6862915" width="2" height="30"></rect>
+                        <rect transform="translate(11.313708, 11.313708) rotate(-315.000000) translate(-11.313708, -11.313708) " x="10.3137085" y="-3.6862915" width="2" height="30"></rect>
+                    </g>
+                </svg>
+            </div>
+        </div>
+        <script data-skip-moving="true" type="text/javascript">$(document).ready(function() {   t657_init('171979892');
+            });
+        </script>
+    </div>
+    <!-- /cookie -->
+
     <!-- mobile menu -->
     <div id="rec166577349" class="r t-rec t-rec_pt_60 t-screenmax-980px" data-animationappear="off" data-record-type="327" data-screen-max="980px">
         <!-- T282 -->
@@ -67,7 +156,7 @@
                 <div class="t282__container__bg_opened"></div>
                 <div class="t282__menu__content">
                     <div class="t282__logo__container">
-                        <a class="t282__logo__content" href="/">
+                        <a class="t282__logo__content" href="<?=SITE_DIR;?>">
                             <img src="<?=SITE_TEMPLATE_PATH?>/img/logo-mobile.svg" class="t280__logo__img" imgfield="img" alt="">
                         </a>
                         <div class="t282__burger">

@@ -1,3 +1,9 @@
+// menu
+$( document ).ready(function() { t396_init('168124446'); });
+$(document).ready(function(){ $("#rec165048487").attr('data-animationappear','off'); $("#rec165048487").css('opacity','1'); t450_initMenu('165048487'); });
+$(document).ready(function() { setTimeout(function(){ t_menusub_init('165048487'); }, 500); });
+
+
 // mobile menu
 $(document).ready(function() {
     t282_showMenu('166577349');
