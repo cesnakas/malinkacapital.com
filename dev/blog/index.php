@@ -4,7 +4,7 @@ $APPLICATION->SetTitle("Блог");
 ?>
 
 <!-- header -->
-<div id="rec166878447" class="r t-rec" style=" " data-animationappear="off" data-record-type="396">
+<div id="rec166878447" class="r t-rec" data-animationappear="off" data-record-type="396">
     <!-- T396 -->
     <div class="t396">
         <div class="t396__artboard rendered" data-artboard-recid="166878447" data-artboard-height="710"

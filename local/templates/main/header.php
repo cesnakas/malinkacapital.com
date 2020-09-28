@@ -10,9 +10,6 @@
     use Bitrix\Main\Page\Asset;
     // Meta
     Asset::getInstance()->addString('<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, viewport-fit=cover, user-scalable=0">');
-    // Bootstrap
-    // use Bitrix\Main\UI\Extension;
-    // Extension::load('ui.bootstrap4');
     // CSS
     Asset::getInstance()->addCss(SITE_TEMPLATE_PATH.'/css/assets/grid-3.0.min.css');
     Asset::getInstance()->addCss(SITE_TEMPLATE_PATH.'/css/assets/blocks-2.12.css');
@@ -58,7 +55,7 @@
 <body>
 
     <!-- menu -->
-    <div id="rec165048487" class="r t-rec t-rec_pt_0 t-rec_pb_0 t-screenmin-980px" style="padding-top: 0px; padding-bottom: 0px; opacity: 1;" data-animationappear="off" data-record-type="450" data-screen-min="980px">
+    <div id="rec165048487" class="r t-rec t-screenmin-980px" style="padding-top: 0px; padding-bottom: 0px; opacity: 1;" data-animationappear="off" data-record-type="450" data-screen-min="980px">
         <div class="t450__burger_container t450__burger-nobg" data-appearoffset="" data-hideoffset="" style="top:15px; ">
             <div class="t450__burger_bg " style="; opacity:0.0;"></div>
             <div class="t450__burger"><img src="https://image.flaticon.com/icons/svg/595/595005.svg" imgfield="img"></div>
@@ -76,12 +73,12 @@
                     <!-- T396 -->
                     <div class="t396">
                         <div class="t396__artboard rendered" data-artboard-recid="168124446" data-artboard-height="710" data-artboard-height_vh="" data-artboard-valign="center" data-artboard-ovrflw="" data-artboard-proxy-min-offset-top="0" data-artboard-proxy-min-height="710" data-artboard-proxy-max-height="710">
-                            <div class="t396__elem tn-elem tn-elem__1681244461582527585852" data-elem-id="1582527585852" data-elem-type="text" data-field-top-value="260" data-field-left-value="70" data-field-width-value="280" data-field-axisy-value="top" data-field-axisx-value="left" data-field-container-value="grid" data-field-topunits-value="" data-field-leftunits-value="" data-field-heightunits-value="" data-field-widthunits-value="" data-fields="top,left,width,container,axisx,axisy,widthunits,leftunits,topunits" style="top: 260px; left: 190px; width: 280px;"> <a class="tn-atom" href="/instrumenty/">Особенности</a> </div>
-                            <div class="t396__elem tn-elem tn-elem__1681244461582528121438" data-elem-id="1582528121438" data-elem-type="text" data-field-top-value="350" data-field-left-value="70" data-field-width-value="280" data-field-axisy-value="top" data-field-axisx-value="left" data-field-container-value="grid" data-field-topunits-value="" data-field-leftunits-value="" data-field-heightunits-value="" data-field-widthunits-value="" data-fields="top,left,width,container,axisx,axisy,widthunits,leftunits,topunits" style="top: 350px; left: 190px; width: 280px;"> <a class="tn-atom" href="/blog/">Блог</a> </div>
-                            <div class="t396__elem tn-elem tn-elem__1681244461582528129211" data-elem-id="1582528129211" data-elem-type="text" data-field-top-value="170" data-field-left-value="70" data-field-width-value="280" data-field-axisy-value="top" data-field-axisx-value="left" data-field-container-value="grid" data-field-topunits-value="" data-field-leftunits-value="" data-field-heightunits-value="" data-field-widthunits-value="" data-fields="top,left,width,container,axisx,axisy,widthunits,leftunits,topunits" style="top: 170px; left: 190px; width: 280px;"> <a class="tn-atom" href="/hedge/">Хедж-фонд</a> </div>
+                            <div class="t396__elem tn-elem tn-elem__1681244461582527585852" data-elem-id="1582527585852" data-elem-type="text" data-field-top-value="260" data-field-left-value="70" data-field-width-value="280" data-field-axisy-value="top" data-field-axisx-value="left" data-field-container-value="grid" data-field-topunits-value="" data-field-leftunits-value="" data-field-heightunits-value="" data-field-widthunits-value="" data-fields="top,left,width,container,axisx,axisy,widthunits,leftunits,topunits" style="top: 260px; left: 190px; width: 280px;"> <a class="tn-atom" href="<?=SITE_DIR;?>instrumenty/">Особенности</a> </div>
+                            <div class="t396__elem tn-elem tn-elem__1681244461582528121438" data-elem-id="1582528121438" data-elem-type="text" data-field-top-value="350" data-field-left-value="70" data-field-width-value="280" data-field-axisy-value="top" data-field-axisx-value="left" data-field-container-value="grid" data-field-topunits-value="" data-field-leftunits-value="" data-field-heightunits-value="" data-field-widthunits-value="" data-fields="top,left,width,container,axisx,axisy,widthunits,leftunits,topunits" style="top: 350px; left: 190px; width: 280px;"> <a class="tn-atom" href="<?=SITE_DIR;?>blog/">Блог</a> </div>
+                            <div class="t396__elem tn-elem tn-elem__1681244461582528129211" data-elem-id="1582528129211" data-elem-type="text" data-field-top-value="170" data-field-left-value="70" data-field-width-value="280" data-field-axisy-value="top" data-field-axisx-value="left" data-field-container-value="grid" data-field-topunits-value="" data-field-leftunits-value="" data-field-heightunits-value="" data-field-widthunits-value="" data-fields="top,left,width,container,axisx,axisy,widthunits,leftunits,topunits" style="top: 170px; left: 190px; width: 280px;"> <a class="tn-atom" href="<?=SITE_DIR;?>hedge/">Хедж-фонд</a> </div>
                             <div class="t396__elem tn-elem tn-elem__1681244461582528171134" data-elem-id="1582528171134" data-elem-type="text" data-field-top-value="175" data-field-left-value="470" data-field-width-value="101" data-field-axisy-value="top" data-field-axisx-value="left" data-field-container-value="grid" data-field-topunits-value="" data-field-leftunits-value="" data-field-heightunits-value="" data-field-widthunits-value="" data-fields="top,left,width,container,axisx,axisy,widthunits,leftunits,topunits" style="top: 175px; left: 590px; width: 101px;"> <a class="tn-atom" href="/#uslugi">Услуги</a> </div>
-                            <div class="t396__elem tn-elem tn-elem__1681244461582528199478" data-elem-id="1582528199478" data-elem-type="text" data-field-top-value="245" data-field-left-value="470" data-field-width-value="101" data-field-axisy-value="top" data-field-axisx-value="left" data-field-container-value="grid" data-field-topunits-value="" data-field-leftunits-value="" data-field-heightunits-value="" data-field-widthunits-value="" data-fields="top,left,width,container,axisx,axisy,widthunits,leftunits,topunits" style="top: 245px; left: 590px; width: 101px;"> <a class="tn-atom" href="/instrumenty/#profit2">Доходность</a> </div>
-                            <div class="t396__elem tn-elem tn-elem__1681244461582528206877" data-elem-id="1582528206877" data-elem-type="text" data-field-top-value="310" data-field-left-value="470" data-field-width-value="101" data-field-axisy-value="top" data-field-axisx-value="left" data-field-container-value="grid" data-field-topunits-value="" data-field-leftunits-value="" data-field-heightunits-value="" data-field-widthunits-value="" data-fields="top,left,width,container,axisx,axisy,widthunits,leftunits,topunits" style="top: 310px; left: 590px; width: 101px;"> <a class="tn-atom" href="/#best">Преимущества</a> </div>
+                            <div class="t396__elem tn-elem tn-elem__1681244461582528199478" data-elem-id="1582528199478" data-elem-type="text" data-field-top-value="245" data-field-left-value="470" data-field-width-value="101" data-field-axisy-value="top" data-field-axisx-value="left" data-field-container-value="grid" data-field-topunits-value="" data-field-leftunits-value="" data-field-heightunits-value="" data-field-widthunits-value="" data-fields="top,left,width,container,axisx,axisy,widthunits,leftunits,topunits" style="top: 245px; left: 590px; width: 101px;"> <a class="tn-atom" href="<?=SITE_DIR;?>/instrumenty/#profit2">Доходность</a> </div>
+                            <div class="t396__elem tn-elem tn-elem__1681244461582528206877" data-elem-id="1582528206877" data-elem-type="text" data-field-top-value="310" data-field-left-value="470" data-field-width-value="101" data-field-axisy-value="top" data-field-axisx-value="left" data-field-container-value="grid" data-field-topunits-value="" data-field-leftunits-value="" data-field-heightunits-value="" data-field-widthunits-value="" data-fields="top,left,width,container,axisx,axisy,widthunits,leftunits,topunits" style="top: 310px; left: 590px; width: 101px;"> <a class="tn-atom" href="<?=SITE_DIR;?>/#best">Преимущества</a> </div>
                             <div class="t396__elem tn-elem tn-elem__1681244461582528236832" data-elem-id="1582528236832" data-elem-type="text" data-field-top-value="375" data-field-left-value="470" data-field-width-value="101" data-field-axisy-value="top" data-field-axisx-value="left" data-field-container-value="grid" data-field-topunits-value="" data-field-leftunits-value="" data-field-heightunits-value="" data-field-widthunits-value="" data-fields="top,left,width,container,axisx,axisy,widthunits,leftunits,topunits" style="top: 375px; left: 590px; width: 101px;"> <a class="tn-atom" href="/#ceo">О нас</a> </div>
                             <div class="t396__elem tn-elem tn-elem__1681244461582528279356" data-elem-id="1582528279356" data-elem-type="text" data-field-top-value="170" data-field-left-value="810" data-field-width-value="101" data-field-axisy-value="top" data-field-axisx-value="left" data-field-container-value="grid" data-field-topunits-value="" data-field-leftunits-value="" data-field-heightunits-value="" data-field-widthunits-value="" data-fields="top,left,width,container,axisx,axisy,widthunits,leftunits,topunits" style="top: 170px; left: 930px; width: 101px;"> <a class="tn-atom" href="/#calculator">Калькулятор</a> </div>
                             <div class="t396__elem tn-elem tn-elem__1681244461582528279359" data-elem-id="1582528279359" data-elem-type="text" data-field-top-value="240" data-field-left-value="810" data-field-width-value="101" data-field-axisy-value="top" data-field-axisx-value="left" data-field-container-value="grid" data-field-topunits-value="" data-field-leftunits-value="" data-field-heightunits-value="" data-field-widthunits-value="" data-fields="top,left,width,container,axisx,axisy,widthunits,leftunits,topunits" style="top: 240px; left: 930px; width: 101px;"> <a class="tn-atom" href="/#footer">Контакты</a> </div>
@@ -173,9 +170,9 @@
                 <div class="t282__menu__wrapper">
                     <div class="t282__menu">
                         <div class="t282__menu__items">
-                            <a class="t282__menu__item t-heading t-heading_md t-menu__link-item" href="/hedge/" data-menu-submenu-hook="">Хедж-фонд</a>
-                            <a class="t282__menu__item t-heading t-heading_md t-menu__link-item" href="/instrumenty" data-menu-submenu-hook="">Особенности</a>
-                            <a class="t282__menu__item t-heading t-heading_md t-menu__link-item" href="/blog" data-menu-submenu-hook="">Блог</a>
+                            <a class="t282__menu__item t-heading t-heading_md t-menu__link-item" href="<?=SITE_DIR;?>/hedge/" data-menu-submenu-hook="">Хедж-фонд</a>
+                            <a class="t282__menu__item t-heading t-heading_md t-menu__link-item" href="<?=SITE_DIR;?>/instrumenty" data-menu-submenu-hook="">Особенности</a>
+                            <a class="t282__menu__item t-heading t-heading_md t-menu__link-item" href="<?=SITE_DIR;?>/blog" data-menu-submenu-hook="">Блог</a>
                             <a class="t282__menu__item t-heading t-heading_md t-menu__link-item" href="#calculator" data-menu-submenu-hook="">Калькулятор</a>
                             <a class="t282__menu__item t-heading t-heading_md t-menu__link-item" href="#demo" data-menu-submenu-hook="">Открыть демо-счет</a>
                             <a class="t282__menu__item t-heading t-heading_md t-menu__link-item" href="#forma" data-menu-submenu-hook="">Консультация</a>
@@ -219,7 +216,7 @@
     <!-- /mobile menu -->
 
     <!-- navigation -->
-    <div id="rec179624420" class="r t-rec t-rec_pt_60 t-screenmin-980px" data-animationappear="off" data-record-type="230" data-screen-min="980px">
+    <div id="rec179624420" class="r t-rec t-screenmin-980px" data-animationappear="off" data-record-type="230" data-screen-min="980px">
         <div id="nav179624420" class="t199__header t199__js__header" data-menu="yes">
             <div class="t199__holder">
 
@@ -239,8 +236,8 @@
                         </div>
                     </nav>
                     <div class="t199__lang">
-                        <a class="t199__lang-item" href="/eng/">En</a>
-                        <a class="t199__lang-item" href="/">Ru</a>
+                        <a class="t199__lang-item" href="<?=ISTE_DIR;?>/eng/">En</a>
+                        <a class="t199__lang-item" href="<?=SITE_DIR;?>">Ru</a>
                     </div>
                 </div>
 
