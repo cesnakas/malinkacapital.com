@@ -55,10 +55,12 @@
 <body>
 
     <!-- menu -->
-    <div id="rec165048487" class="r t-rec t-screenmin-980px" style="padding-top: 0px; padding-bottom: 0px; opacity: 1;" data-animationappear="off" data-record-type="450" data-screen-min="980px">
-        <div class="t450__burger_container t450__burger-nobg" data-appearoffset="" data-hideoffset="" style="top:15px; ">
-            <div class="t450__burger_bg " style="; opacity:0.0;"></div>
-            <div class="t450__burger"><img src="https://image.flaticon.com/icons/svg/595/595005.svg" imgfield="img"></div>
+    <div id="rec165048487" class="r t-rec t-screenmin-980px" data-animationappear="off" data-record-type="450" data-screen-min="980px">
+        <div class="t450__burger_container t450__burger-nobg" data-appearoffset="" data-hideoffset="">
+            <div class="t450__burger_bg"></div>
+            <div class="t450__burger">
+                <img src="<?=SITE_TEMPLATE_PATH;?>/img/svg/menu.svg" loading="lazy" alt="menu">
+            </div>
         </div>
         <!-- t450 -->
         <div id="nav165048487marker"></div>
@@ -236,7 +238,7 @@
                         </div>
                     </nav>
                     <div class="t199__lang">
-                        <a class="t199__lang-item" href="<?=ISTE_DIR;?>/eng/">En</a>
+                        <a class="t199__lang-item" href="<?=SITE_DIR;?>/eng/">En</a>
                         <a class="t199__lang-item" href="<?=SITE_DIR;?>">Ru</a>
                     </div>
                 </div>
