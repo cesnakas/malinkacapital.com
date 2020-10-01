@@ -138,7 +138,7 @@
                             <!-- facebook -->
                             <div class="t396__elem tn-elem tn-elem__1681244461582528472741" data-elem-id="1582528472741" data-elem-type="image" data-field-top-value="610" data-field-left-value="110" data-field-width-value="34" data-field-axisy-value="top" data-field-axisx-value="left" data-field-container-value="grid" data-field-topunits-value="" data-field-leftunits-value="" data-field-heightunits-value="" data-field-widthunits-value="" data-fields="img,width,filewidth,fileheight,top,left,container,axisx,axisy,widthunits,leftunits,topunits" style="left: 230px; top: 610px; width: 34px;">
                                 <a class="tn-atom" href="https://www.facebook.com/malinka_capital-605830633245003/" target="_blank">
-                                    <img class="tn-atom__img t-img loading" src="/upload/tilda/d50ba2e156b0c850afdcae821249872f001-facebook.svg" imgfield="tn_img_1582528472741">
+                                    <img class="tn-atom__img t-img loading" src="/upload/tilda/d50ba2e156b0c850afdcae821249872f001-facebook.svg" imgfield="tn_img_1582528472741" loading="lazy">
                                 </a>
                             </div>
                             <!-- /facebook -->
@@ -146,7 +146,7 @@
                             <!-- instagram -->
                             <div class="t396__elem tn-elem tn-elem__1681244461582528484309" data-elem-id="1582528484309" data-elem-type="image" data-field-top-value="610" data-field-left-value="160" data-field-width-value="34" data-field-axisy-value="top" data-field-axisx-value="left" data-field-container-value="grid" data-field-topunits-value="" data-field-leftunits-value="" data-field-heightunits-value="" data-field-widthunits-value="" data-fields="img,width,filewidth,fileheight,top,left,container,axisx,axisy,widthunits,leftunits,topunits" style="left: 280px; top: 610px; width: 34px;">
                                 <a class="tn-atom" href="https://www.instagram.com/malinka_capital/" target="_blank">
-                                    <img class="tn-atom__img t-img loading" src="/upload/tilda/bda415103290a0e88306ca878cda61cb002-instagram.svg" imgfield="tn_img_1582528484309">
+                                    <img class="tn-atom__img t-img loading" src="/upload/tilda/bda415103290a0e88306ca878cda61cb002-instagram.svg" imgfield="tn_img_1582528484309" loading="lazy">
                                 </a>
                             </div>
                             <!-- /instagram -->
@@ -154,37 +154,39 @@
                             <!-- vk -->
                             <div class="t396__elem tn-elem tn-elem__1681244461582528506766" data-elem-id="1582528506766" data-elem-type="image" data-field-top-value="610" data-field-left-value="210" data-field-width-value="34" data-field-axisy-value="top" data-field-axisx-value="left" data-field-container-value="grid" data-field-topunits-value="" data-field-leftunits-value="" data-field-heightunits-value="" data-field-widthunits-value="" data-fields="img,width,filewidth,fileheight,top,left,container,axisx,axisy,widthunits,leftunits,topunits" style="left: 330px; top: 610px; width: 34px;">
                                 <a class="tn-atom" href="https://vk.com/malinkacapital" target="_blank">
-                                    <img class="tn-atom__img t-img loading" src="/upload/tilda/cc7a3fa642dc9c20f7fecd3ba18c5241photo.svg" imgfield="tn_img_1582528506766">
+                                    <img class="tn-atom__img t-img loading" src="/upload/tilda/cc7a3fa642dc9c20f7fecd3ba18c5241photo.svg" imgfield="tn_img_1582528506766" loading="lazy">
                                 </a>
                             </div>
                             <!-- /vk -->
 
                             <div class="t396__elem tn-elem tn-elem__1681244461582528675083" data-elem-id="1582528675083" data-elem-type="image" data-field-top-value="435" data-field-left-value="720" data-field-width-value="15" data-field-axisy-value="top" data-field-axisx-value="left" data-field-container-value="grid" data-field-topunits-value="" data-field-leftunits-value="" data-field-heightunits-value="" data-field-widthunits-value="" data-fields="img,width,filewidth,fileheight,top,left,container,axisx,axisy,widthunits,leftunits,topunits" style="left: 840px; top: 435px; width: 15px;">
                                 <div class="tn-atom">
-                                    <img class="tn-atom__img t-img loading" src="/upload/tilda/977df2fbdebd11eda9c350d3517f8fa1Ellipse_31.svg" imgfield="tn_img_1582528675083">
+                                    <img class="tn-atom__img t-img loading" src="/upload/tilda/977df2fbdebd11eda9c350d3517f8fa1Ellipse_31.svg" imgfield="tn_img_1582528675083" loading="lazy">
                                 </div>
                             </div>
 
                             <div class="t396__elem tn-elem tn-elem__1681244461582528699006" data-elem-id="1582528699006" data-elem-type="image" data-field-top-value="425" data-field-left-value="350" data-field-width-value="344" data-field-axisy-value="top" data-field-axisx-value="left" data-field-container-value="grid" data-field-topunits-value="" data-field-leftunits-value="" data-field-heightunits-value="" data-field-widthunits-value="" data-fields="img,width,filewidth,fileheight,top,left,container,axisx,axisy,widthunits,leftunits,topunits" style="left: 470px; top: 425px; width: 344px;">
                                 <div class="tn-atom">
-                                    <img class="tn-atom__img t-img loading" src="/upload/tilda/56ff0cb35c5e0b1afb641fc74cfee737photo.svg" imgfield="tn_img_1582528699006">
+                                    <img class="tn-atom__img t-img loading" src="/upload/tilda/56ff0cb35c5e0b1afb641fc74cfee737photo.svg" imgfield="tn_img_1582528699006" loading="lazy">
                                 </div>
                             </div>
 
                             <div class="t396__elem tn-elem tn-elem__1681244461582528748143" data-elem-id="1582528748143" data-elem-type="image" data-field-top-value="-15" data-field-left-value="980" data-field-width-value="276" data-field-axisy-value="top" data-field-axisx-value="left" data-field-container-value="grid" data-field-topunits-value="" data-field-leftunits-value="" data-field-heightunits-value="" data-field-widthunits-value="" data-fields="img,width,filewidth,fileheight,top,left,container,axisx,axisy,widthunits,leftunits,topunits" style="left: 1100px; top: -15px; width: 276px;">
                                 <div class="tn-atom">
-                                    <img class="tn-atom__img t-img loading" src="/upload/tilda/90179a59113c3a3715c578151b34751dphoto_1.svg" imgfield="tn_img_1582528748143">
+                                    <img class="tn-atom__img t-img loading" src="/upload/tilda/90179a59113c3a3715c578151b34751dphoto_1.svg" imgfield="tn_img_1582528748143" loading="lazy">
                                 </div>
                             </div>
 
+                            <!-- mail -->
                             <div class="t396__elem tn-elem tn-elem__1681244461582964459541" data-elem-id="1582964459541" data-elem-type="text" data-field-top-value="615" data-field-left-value="811" data-field-width-value="101" data-field-axisy-value="top" data-field-axisx-value="left" data-field-container-value="grid" data-field-topunits-value="" data-field-leftunits-value="" data-field-heightunits-value="" data-field-widthunits-value="" data-fields="top,left,width,container,axisx,axisy,widthunits,leftunits,topunits" style="top: 615px; left: 931px; width: 101px;">
-                                <div class="tn-atom" field="tn_text_1582964459541">malinkacapital@gmail.com</div>
+                                <a class="tn-atom" field="tn_text_1582964459541" href="mailto:malinkacapital@gmail.com">malinkacapital@gmail.com</a>
                             </div>
+                            <!-- /mail -->
 
                             <!-- logo -->
                             <div class="t396__elem tn-elem tn-elem__1681244461583437174466" data-elem-id="1583437174466" data-elem-type="image" data-field-top-value="30" data-field-left-value="-10" data-field-width-value="307" data-field-axisy-value="top" data-field-axisx-value="left" data-field-container-value="grid" data-field-topunits-value="" data-field-leftunits-value="" data-field-heightunits-value="" data-field-widthunits-value="" data-fields="img,width,filewidth,fileheight,top,left,container,axisx,axisy,widthunits,leftunits,topunits" style="left: 110px; top: 30px; width: 307px;">
                                 <a class="tn-atom" href="<?=SITE_DIR;?>">
-                                    <img class="tn-atom__img t-img loading" src="/upload/tilda/6374e5be28db28ab0984ccb9c9a6eed4__.svg" alt="Logo" imgfield="tn_img_1583437174466">
+                                    <img class="tn-atom__img t-img loading" src="/upload/tilda/6374e5be28db28ab0984ccb9c9a6eed4__.svg" alt="Logo" imgfield="tn_img_1583437174466" loading="lazy">
                                 </a>
                             </div>
                             <!-- /logo -->
@@ -236,7 +238,7 @@
                 <div class="t282__menu__content">
                     <div class="t282__logo__container">
                         <a class="t282__logo__content" href="<?=SITE_DIR;?>">
-                            <img src="<?=SITE_TEMPLATE_PATH?>/img/logo-mobile.svg" class="t280__logo__img" imgfield="img" alt="">
+                            <img src="<?=SITE_TEMPLATE_PATH?>/img/logo-mobile.svg" class="t280__logo__img" imgfield="img" alt="" loading="lazy">
                         </a>
                         <div class="t282__burger">
                             <span></span>
@@ -303,7 +305,7 @@
             <div class="t199__holder">
 
                 <a class="t199__logo" href="<?=SITE_DIR;?>">
-                    <img src="<?=SITE_TEMPLATE_PATH;?>/img/logo.svg" class="t199__logo-image" imgfield="img">
+                    <img src="<?=SITE_TEMPLATE_PATH;?>/img/logo.svg" class="t199__logo-image" imgfield="img" loading="lazy">
                     <div class="t199__logo-text-mobile t-title" field="title"></div>
                 </a>
 
@@ -314,11 +316,11 @@
                 <div class="t199__mmenu t199__js__menu">
                     <nav class="t199__menu">
                         <div class="t199__menu-item-wrap">
-                            <a class="t199__menu-item t-title t-menu__link-item" href="" data-menu-submenu-hook="">+7 (342) 200 91 99</a>
+                            <a class="t199__menu-item t-title t-menu__link-item" href="tel:+73422009199" data-menu-submenu-hook="">+7 (342) 200 91 99</a>
                         </div>
                     </nav>
                     <div class="t199__lang">
-                        <a class="t199__lang-item" href="<?=SITE_DIR;?>/eng/">En</a>
+                        <a class="t199__lang-item" href="<?=SITE_DIR;?>eng/">En</a>
                         <a class="t199__lang-item" href="<?=SITE_DIR;?>">Ru</a>
                     </div>
                 </div>
