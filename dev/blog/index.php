@@ -55,7 +55,7 @@ $APPLICATION->SetTitle("Блог");
                  data-field-widthunits-value=""
                  data-fields="top,left,width,height,container,axisx,axisy,caption,leftunits,topunits"
                  style="top: 460px; left: 260px; width: 240px; height: 55px;">
-                <a class="tn-atom" href="#subscribe">Подписаться на рассылку</a>
+                <a class="tn-atom" href="<?=SITE_DIR;?>#subscribe">Подписаться на рассылку</a>
             </div>
             <div class="t396__elem tn-elem tn-elem__1668784471583124553055" data-elem-id="1583124553055"
                  data-elem-type="button" data-field-top-value="460" data-field-top-res-960-value="462"
@@ -68,7 +68,7 @@ $APPLICATION->SetTitle("Блог");
                  data-field-widthunits-value=""
                  data-fields="top,left,width,height,container,axisx,axisy,caption,leftunits,topunits"
                  style="top: 460px; left: 520px; width: 240px; height: 55px;">
-                <a class="tn-atom" href="#popular">Читать статьи</a>
+                <a class="tn-atom" href="<?=SITE_DIR;?>#popular">Читать статьи</a>
             </div>
             <div class="t396__elem tn-elem tn-elem__1668784471583124826139" data-elem-id="1583124826139"
                  data-elem-type="image" data-field-top-value="210" data-field-top-res-960-value="135"
@@ -104,10 +104,12 @@ $APPLICATION->SetTitle("Блог");
                  style="left: 850px; top: 150px; width: 54px;">
                 <div class="tn-atom__prx-wrapper"
                      style="display: table; width: inherit; height: inherit; transform: translate3d(-13.9931px, 3.08625px, 0px);">
-                    <div class="tn-atom"><img class="tn-atom__img t-img loaded"
-                                              data-original="https://static.tildacdn.com/tild3762-3063-4435-b332-326130316461/photo.svg"
-                                              imgfield="tn_img_1583124986671"
-                                              src="https://static.tildacdn.com/tild3762-3063-4435-b332-326130316461/photo.svg">
+                    <div class="tn-atom">
+                        <img class="tn-atom__img t-img loaded"
+                             data-original="https://static.tildacdn.com/tild3762-3063-4435-b332-326130316461/photo.svg"
+                             imgfield="tn_img_1583124986671"
+                             src="https://static.tildacdn.com/tild3762-3063-4435-b332-326130316461/photo.svg"
+                        >
                     </div>
                 </div>
             </div>
@@ -123,12 +125,13 @@ $APPLICATION->SetTitle("Блог");
                  data-animate-prx-dy="30"
                  data-fields="img,width,filewidth,fileheight,top,left,container,axisx,axisy,widthunits,leftunits,topunits"
                  style="left: 880px; top: 220px; width: 337px;">
-                <div class="tn-atom__prx-wrapper"
-                     style="display: table; width: inherit; height: inherit; transform: translate3d(-13.9931px, 3.08623px, 0px);">
-                    <div class="tn-atom"><img class="tn-atom__img t-img loaded"
-                                              data-original="https://static.tildacdn.com/tild3366-3135-4135-a631-656236666332/photo.svg"
-                                              imgfield="tn_img_1583125008923"
-                                              src="https://static.tildacdn.com/tild3366-3135-4135-a631-656236666332/photo.svg">
+                <div class="tn-atom__prx-wrapper" style="display: table; width: inherit; height: inherit; transform: translate3d(-13.9931px, 3.08623px, 0px);">
+                    <div class="tn-atom">
+                        <img class="tn-atom__img t-img loaded"
+                             data-original="https://static.tildacdn.com/tild3366-3135-4135-a631-656236666332/photo.svg"
+                             imgfield="tn_img_1583125008923"
+                             src="https://static.tildacdn.com/tild3366-3135-4135-a631-656236666332/photo.svg"
+                        >
                     </div>
                 </div>
             </div>
