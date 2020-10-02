@@ -1,0 +1,6 @@
+<script type="text/javascript" > (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "../mc.yandex.ru/metrika/tag.js", "ym"); window.mainMetrikaId = 60934321; ym(window.mainMetrikaId , "init", { clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true,ecommerce:"dataLayer" }); </script>
+<noscript>
+   <div><img src="https://mc.yandex.ru/watch/60934321" style="position:absolute; left:-9999px;" alt="" /></div>
+</noscript>
+<!-- /Yandex.Metrika counter -->
+<script type="text/javascript">if (! window.mainTracker) { window.mainTracker = 'tilda'; }   (function (d, w, k, o, g) { var n=d.getElementsByTagName(o)[0],s=d.createElement(o),f=function(){n.parentNode.insertBefore(s,n);}; s.type = "text/javascript"; s.async = true; s.key = k; s.id = "tildastatscript"; s.src=g; if (w.opera=="[object Opera]") {d.addEventListener("DOMContentLoaded", f, false);} else { f(); } })(document, window, '892b0e418a522750e3dc295e9a2bd7a9','script','<?=SITE_TEMPLATE_PATH?>/assets/stat.tildacdn.com/js/tildastat-0.2.min.js');</script>

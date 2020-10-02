@@ -1,0 +1,1 @@
+EXANTE получила престижную награду Best Trading Platform 2019 («За лучшую торговую платформу 2019») от издания Global Banking <br>and Finance Review

@@ -1,1 +1,0 @@
-# malinkacapital.com

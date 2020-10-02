@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.malinkacapital.com	TRUE	/	FALSE	1999999999	rerf	AAAAAF7dU5aYzQcYAxFpAg==
+www.malinkacapital.com	TRUE	/	FALSE	1999999999	ipp_uid2	fU1aaijxKdTKhG3c/JqUv3wOihzNL9UTnbf+ViA==
+www.malinkacapital.com	TRUE	/	FALSE	1999999999	ipp_uid1	1591563158455
+www.malinkacapital.com	TRUE	/	FALSE	1999999999	ipp_uid	1591563158455/fU1aaijxKdTKhG3c/JqUv3wOihzNL9UTnbf+ViA==
+

@@ -1,7 +1,11 @@
 {
-"version": 3,
-"mappings": "AACQ,sGAA8F,CCDtG,IAAK,CACH,WAAW,CAAE,2BAA2B,CACxC,KAAK,CAAE,IAAI,CAGb,IAAK,CACH,UAAU,CAAE,KAAK",
-"sources": ["../scss/main.scss","../scss/_reboot.scss"],
-"names": [],
-"file": "main.min.css"
+    "version": 3,
+    "mappings": "AACA,OAAO,CAAC,8FAAI,CCDZ,AAAA,IAAI,AAAC,CACH,WAAW,CAAE,2BAA2B,CACxC,KAAK,CAAE,IAAI,CACZ,AAED,AAAA,IAAI,AAAC,CACH,UAAU,CAAE,KAAK,CAClB,ACPD,AAAA,WAAW,AAAC,CACV,MAAM,CAAE,IAAI,CAUb,AAXD,AAGE,WAHS,CAGT,SAAS,AAAC,CACR,SAAS,CAAE,IAAI,CACf,WAAW,CAAE,GAAG,CAChB,cAAc,CAAE,KAAK,CACrB,eAAe,CAAE,IAAI,CACrB,cAAc,CAAE,SAAS,CACzB,KAAK,CAAE,IAAI,CACZ",
+    "sources": [
+        "../scss/main.scss",
+        "../scss/_reboot.scss",
+        "../scss/nav/_navbar.scss"
+    ],
+    "names": [],
+    "file": "main.min.css"
 }

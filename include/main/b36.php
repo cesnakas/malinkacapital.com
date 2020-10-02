@@ -1,0 +1,1 @@
+CEO (Chief Executive Officer)<br>Руководитель компании MALINKA-CAPITAL
